@@ -21,7 +21,7 @@
 | 15   | canal-server:v1.1.6               | docker pull registry.cn-hangzhou.aliyuncs.com/xfg-studio/canal-server:v1.1.6 |
 | 16   | canal-server:v1.1.7               | docker pull registry.cn-hangzhou.aliyuncs.com/xfg-studio/canal-server:v1.1.7 |
 | 17   | canal-adapter:v1.1.6              | docker pull registry.cn-hangzhou.aliyuncs.com/xfg-studio/canal-adapter:v1.1.6 |
-| 18   | elasticsearch:7.17.14\7.17.28     | docker pull registry.cn-hangzhou.aliyuncs.com/xfg-studio/elasticsearch:7.17.14\7.17.28 |
+| 18   | elasticsearch:7.17.14\7.17.28\8.19.10     | docker pull registry.cn-hangzhou.aliyuncs.com/xfg-studio/elasticsearch:7.17.14\7.17.28\8.19.10 |
 | 19   | kibana:7.17.14\7.17.28            | docker pull registry.cn-hangzhou.aliyuncs.com/xfg-studio/kibana:7.17.14\7.17.28 |
 | 20   | zookeeper:3.9.0                   | docker pull registry.cn-hangzhou.aliyuncs.com/xfg-studio/zookeeper:3.9.0 |
 | 21   | xxl-job-aarch64:2.4.0             | docker pull registry.cn-hangzhou.aliyuncs.com/xfg-studio/xxl-job-aarch64:2.4.0 |
