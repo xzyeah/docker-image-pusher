@@ -1,1 +1,1 @@
-oracle:19.19.0-ee-arm64
+elasticsearch:8.19.10
