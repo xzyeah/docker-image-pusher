@@ -1,1 +1,1 @@
-elasticsearch:8.19.10
+justsong/one-api:v0.6.10
