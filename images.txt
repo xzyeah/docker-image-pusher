@@ -1,1 +1,1 @@
-weishaw/sub2api:0.1.138
+mysql:8.0.32
