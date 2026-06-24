@@ -1,1 +1,1 @@
-justsong/one-api:v0.6.10
+weishaw/sub2api:0.1.138
