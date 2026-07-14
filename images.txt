@@ -1,2 +1,1 @@
-mysql:8.4.4
-node:24-alpine
+minio/minio:RELEASE.2023-03-20T20-16-18Z
