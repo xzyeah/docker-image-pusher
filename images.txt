@@ -1,1 +1,1 @@
-jqlang/jq:latest
+alpine:latest
