@@ -1,1 +1,1 @@
-alpine:latest
+jqjq/jq:latest
