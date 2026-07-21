@@ -1,1 +1,1 @@
-registry.gitlab.com/security-products/semgrep:5
+security-products/semgrep:5
