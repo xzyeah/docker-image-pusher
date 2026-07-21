@@ -1,1 +1,1 @@
-jqjq/jq:latest
+registry.gitlab.com/security-products/semgrep:5
